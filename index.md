@@ -13,3 +13,5 @@ This template is set up with USWDS core CSS and JS files from [CDNJS](https://cd
 <div class="margin-y-6">
 <a href="https://github.com/Bixal/uswds-template" class="usa-button usa-button--big">View on GitHub</a>
 </div>
+
+assets/img/usa-icons/close.svg
