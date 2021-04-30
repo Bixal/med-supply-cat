@@ -3,10 +3,10 @@
   image: 
 - name: Injectable Contraceptive
   url: 
-  image: 
+  image: "https://assets.nhs.uk/nhsuk-cms/images/S_0917_contraceptive-injection_C0069172.width-1534_bIgRJjn.jpg"
 - name: Combined Oral Contraceptive Pill
   url: 
-  image: 
+  image: "https://assets.nhs.uk/nhsuk-cms/images/A_0917_combined-pill_B11YFW.width-1534.jpg"
 - name: Progestin Only Oral Contraceptive Pill
   url: 
   image: 
