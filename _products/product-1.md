@@ -3,7 +3,9 @@ layout: product
 title: Copper TCu380A
 category: Intrauterine Device (IUD)
 brand: 
-tags: public sector, social marketing
+tags: 
+    - public sector
+    - social marketing
 subtitle: 
 sku: 
 price: $.60 per piece
@@ -11,11 +13,6 @@ feature-image: https://assets.nhs.uk/nhsuk-cms/images/A_0917_combined-pill_B11YF
 feature-image-description: "multi=colored pills in foil packaging"
 related-keyword: 
 ---
-public sector
-{: .usa-tag .display-inline-flex}
-social marketing
-{: .usa-tag .display-inline-flex}
-
 ## Market Insights
 
 **Contraceptive Insert**: multilingual (English, French, Spanish, and Arabic)
