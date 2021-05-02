@@ -1,13 +1,13 @@
 <ul class="usa-card-group">
-    {% for member in site.data.categories %}
+    {% for item in site.data.categories %}
     <li class="tablet:grid-col-4 usa-card">
       <div class="usa-card__container">
         <header class="usa-card__header">
-          <h2 class="usa-card__heading"><a href="">{{ member.name }}</a></h2>
+          <h2 class="usa-card__heading"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></h2>
         </header>
         <div class="usa-card__media">
-            <div class="usa-card__img">
-              <img src="{{ member.image }}" alt="A placeholder image">
+            <div class="usa-card__img maxh-card">
+              <img src="{{ item.image }}" alt="A placeholder image">
             </div>
           </div>
         <div class="usa-card__body">

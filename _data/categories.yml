@@ -1,8 +1,8 @@
 - name: Intrauterine Device (IUD)
-  url: 
-  image: 
+  url: "/products/product-1.html"
+  image: "assets/category-images/category-iud.jpeg"
 - name: Injectable Contraceptive
-  url: 
+  url: "/products/product-2.html"
   image: "https://assets.nhs.uk/nhsuk-cms/images/S_0917_contraceptive-injection_C0069172.width-1534_bIgRJjn.jpg"
 - name: Combined Oral Contraceptive Pill
   url: 

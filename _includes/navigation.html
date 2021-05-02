@@ -13,24 +13,11 @@
         <li class="usa-nav__primary-item">
           <button class="usa-accordion__button usa-nav__link  usa-current" aria-expanded="false" aria-controls="basic-nav-section-one"><span>Categories</span></button>
           <ul id="basic-nav-section-one" class="usa-nav__submenu">
+            {% for item in site.data.categories %}
             <li class="usa-nav__submenu-item">
-              <a href="#" class="">Intrauterine Device (IUD)</a>
+              <a href="{{ site.baseurl }}{{ item.url }}" class="">{{ item.name }}</a>
             </li>
-            <li class="usa-nav__submenu-item">
-              <a href="#" class="">Injectable Contraceptive</a>
-            </li>
-            <li class="usa-nav__submenu-item">
-              <a href="#" class="">Combined Oral Contraceptive Pill</a>
-            </li>
-            <li class="usa-nav__submenu-item">
-                <a href="#" class="">Progestin Only Oral Contraceptive Pill</a>
-              </li>
-              <li class="usa-nav__submenu-item">
-                <a href="#" class="">Contraceptive Implant</a>
-              </li>
-              <li class="usa-nav__submenu-item">
-                <a href="#" class="">Standard Days Method</a>
-              </li>
+            {% endfor %}
           </ul>
         </li>
         <li class="usa-nav__primary-item">
