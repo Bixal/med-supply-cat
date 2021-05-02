@@ -15,13 +15,13 @@ related-keyword:
 ---
 ## Market Insights
 
-*Contraceptive Insert*: multilingual (English, French, Spanish, and Arabic)
+**Contraceptive Insert**: multilingual (English, French, Spanish, and Arabic)
 
 ## Volumetrics
 
-*Shipping unit*: 400 single-dose vials, 400 empty autodisable syringes (SOLOSHOT IX-1 ml w/22 gauge × 1-inch needle) and 4 Polysafe Safety Box sharps containers per case
+**Shipping unit**: 400 single-dose vials, 400 empty autodisable syringes (SOLOSHOT IX-1 ml w/22 gauge × 1-inch needle) and 4 Polysafe Safety Box sharps containers per case
 
-*Dimensions*:
+**Dimensions**:
 
 - 46.2 cm w × 37.3 cm d × 23.6 cm h (18.19"w × 14.69"d × 9.29"h)
 - Case volume: 0.04 m3 (1.44 ft3)
@@ -38,9 +38,9 @@ Store at room temperature (20-25°C, 68-77°F), away from direct sunlight. Injec
 
 ## Planning and Warehousing 
 
-*Shelf life*: 5 years
+**Shelf life**: 5 years
 
-*Special Considerations*:
+**Special Considerations**:
 - All injectables require a sterile syringe and 21- to 23-gauge needle for administration.
 - Store vials upright to avoid problems with resuspension.
 - To safely manage health care waste resulting from the use of these supplies, use sharps/safety boxes and correctly dispose of used needles, syringes, and open vials.
