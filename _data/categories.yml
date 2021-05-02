@@ -1,15 +1,25 @@
 - name: Intrauterine Device (IUD)
   url: "/products/product-1.html"
   image: "assets/category-images/category-iud.jpeg"
+  no-products: 5
+  last-update: 3/23/2020
 - name: Injectable Contraceptive
   url: "/products/product-2.html"
   image: "https://assets.nhs.uk/nhsuk-cms/images/S_0917_contraceptive-injection_C0069172.width-1534_bIgRJjn.jpg"
+  no-products: 16
+  last-update: 12/2/2020
 - name: Combined Oral Contraceptive Pill
   url: 
   image: "https://assets.nhs.uk/nhsuk-cms/images/A_0917_combined-pill_B11YFW.width-1534.jpg"
+  no-products: 8
+  last-update: 2/4/2021
 - name: Progestin Only Oral Contraceptive Pill
   url: 
   image: 
+  no-products: 25
+  last-update: 2/4/2021
 - name: Standard Days Method
   url: 
   image: 
+  no-products: 17
+  last-update: 1/14/2021
