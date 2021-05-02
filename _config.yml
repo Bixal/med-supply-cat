@@ -15,3 +15,8 @@ github: [metadata]
 
 # Enable for live hosting on GitHub Pages
 baseurl: /med-supply-cat
+
+# Use a collection or oganize the product information
+collections:
+  products:
+    output: true
