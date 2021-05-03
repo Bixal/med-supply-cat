@@ -9,7 +9,7 @@ tags:
 subtitle: 
 sku: 
 price:  $1.48 per unit
-feature-image: https://www.plannedparenthood.org/uploads/filer_public_thumbnails/filer_public/a4/71/a471d20c-d12f-48c2-8f5f-adb9452e3061/cycle_beads_fams_topic_pages_standard_days_method_beads.jpg__1200x900_q75_subsampling-2.jpg
+feature-image: /med-supply-cat/assets/product-images/product-9-feature.png
 related-keyword: "bracelet of white and brown beads"
 ---
 ## Market Insights

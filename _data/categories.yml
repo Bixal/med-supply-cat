@@ -5,21 +5,21 @@
   last-update: 3/23/2020
 - name: Injectable Contraceptive
   url: "/products/product-2.html"
-  image: ""assets/category-images/category-injection.jpg""
+  image: "assets/category-images/category-injection.jpg"
   no-products: 16
   last-update: 12/2/2020
 - name: Combined Oral Contraceptive Pill
   url: "/products/product-4.html"
-  image: ""assets/category-images/category-pill.jpg""
+  image: "assets/category-images/category-pill.jpg"
   no-products: 8
   last-update: 2/4/2021
 - name: Progestin Only Oral Contraceptive Pill
   url: "/products/product-6.html"
-  image: ""assets/category-images/category-progestin.jpg""
+  image: "assets/category-images/category-progestin.jpg"
   no-products: 25
   last-update: 2/4/2021
 - name: Standard Days Method
   url: "/products/product-9.html"
-  image: ""assets/category-images/category-standard-days.jpg""
+  image: "assets/category-images/category-standard-days.jpg"
   no-products: 17
   last-update: 1/14/2021

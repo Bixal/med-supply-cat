@@ -8,7 +8,7 @@ tags:
 subtitle: 
 sku: 
 price:  $.27 per unit
-feature-image: https://pbs.twimg.com/media/BID2erNCYAAe9BV.jpg
+feature-image: /med-supply-cat/assets/product-images/product-4-feature.png
 related-keyword: "red and orange hand-size box next to a packet of white and red pills"
 ---
 ## Market Insights
