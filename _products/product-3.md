@@ -31,7 +31,7 @@ related-keyword:
 - 66 cases per pallet (ocean and air)
 - 132,000 doses per 20' container 290,400 doses per 40' container
 
-*As* *a general rule, orders for quantities for less than half a 20' container that are not consolidated with other orders will ship by air.*
+*As a general rule, orders for quantities for less than half a 20' container that are not consolidated with other orders will ship by air.*
 
 ## Logistics
 

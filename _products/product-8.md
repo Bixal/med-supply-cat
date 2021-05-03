@@ -29,7 +29,7 @@ related-keyword:
 - Pallet configuration based on order quantity
 - 118,800 sets per 20' container 270,000 sets per 40' container 270,000 sets per 40' HC container
 
-*As* *a general rule, orders for quantities for less than half a 20' container that are not consolidated with other orders will ship by air*.
+*As a general rule, orders for quantities for less than half a 20' container that are not consolidated with other orders will ship by air*.
 
 ## Logistics
 

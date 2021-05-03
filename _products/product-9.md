@@ -31,7 +31,7 @@ related-keyword: "bracelet of white and brown beads"
 - 16 cases per pallet (ocean and air)
 - 160,000 units per 20' container 352,000 units per 40' container
 
-*As* *a general rule, orders for quantities for less than half a 20' container that are not consolidated with other orders will ship by air.*
+*As a general rule, orders for quantities for less than half a 20' container that are not consolidated with other orders will ship by air.*
 
 ## Logistics
 

@@ -28,7 +28,7 @@ related-keyword:
 - 24 cases per pallet (ocean and air)
 - 253,440 cycles per 20' container 576,000 cycles per 40' container 720,000 cycles per 40' HC container
 
-*As* *a general rule, orders for quantities for less than half a 20' container that are not consolidated with other orders will ship by air.*
+*As a general rule, orders for quantities for less than half a 20' container that are not consolidated with other orders will ship by air.*
 
 ## Logistics
 
