@@ -9,7 +9,7 @@ tags:
 subtitle: 
 sku: 
 price: $.60 per piece
-feature-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/IUD_with_scale.jpg/240px-IUD_with_scale.jpg
+feature-image: /med-supply-cat/assets/product-images/product-1-feature.png
 feature-image-description: "T-shaped device with some parts wrapped in copper coils"
 related-keyword: 
 ---
