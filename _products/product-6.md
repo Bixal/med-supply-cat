@@ -8,8 +8,8 @@ tags:
 subtitle: "Pink Lady"
 sku: 
 price:  $.30 per unit
-feature-image: 
-related-keyword: 
+feature-image: https://www.imres.nl/image/media/products/18172.jpg?w=800
+related-keyword: "pink and white hand-size box next to a packet of white pills"
 ---
 ## Market Insights
 

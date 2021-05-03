@@ -8,8 +8,8 @@ tags:
 subtitle: 
 sku: 
 price:  $.27 per unit
-feature-image:
-related-keyword: 
+feature-image: https://pbs.twimg.com/media/BID2erNCYAAe9BV.jpg
+related-keyword: "red and orange hand-size box next to a packet of white and red pills"
 ---
 ## Market Insights
 
@@ -32,7 +32,7 @@ related-keyword:
 
 ## Logistics
 
-- Store at controlled room temperature (20-25°C, 68-77°F), away from direct sunlight.
+Store at controlled room temperature (20-25°C, 68-77°F), away from direct sunlight.
 
 ## Planning and Warehousing 
 
