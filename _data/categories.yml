@@ -1,6 +1,6 @@
 - name: Intrauterine Device (IUD)
   url: "/products/product-1.html"
-  image: "assets/category-images/category-IUD.jpg"
+  image: "assets/category-images/category-iud.jpg"
   no-products: 5
   last-update: 3/23/2020
 - name: Injectable Contraceptive
