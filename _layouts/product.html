@@ -38,6 +38,19 @@
 
     <section class="maxw-tablet">
         {{ content }}
+
+        {% assign related_products = site.products | where: "category", page.category %}
+        <h2>Other products in {{ page.category }}</h2>
+        <ul>
+          {% for product in related_products %}
+          {% if product.title != page.title %}
+          <li>
+            <a href="{{ site.baseurl }}{{ product.url }}">{{ product.title }}</a>
+          </li>
+          {% endif %}
+        {% endfor %}
+        </ul>
+        
     </section>
     
   </div>
