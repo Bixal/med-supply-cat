@@ -5,10 +5,11 @@
 <body>
   {% include navigation.html %}
   
-  <main class="grid-container padding-y-2">
-    {% include categories.html %}
-
-    {{ content }}
+  <main>
+    <div class="grid-container padding-y-2">
+      {% include categories.html %}
+      {{ content }}
+  </div>
   </main>
   
   {% include foot.html %}
