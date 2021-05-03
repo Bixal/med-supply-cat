@@ -20,34 +20,26 @@ related-keyword:
 
 ## Volumetrics
 
-- Shipping unit: 
+**Shipping unit**: 200 single dose pre-filled Uniject devices for subcutaneous injection
 
-  - 200 single dose pre-filled Uniject devices for subcutaneous injection
+**Dimensions**:
 
-- Dimensions:
+- 34 cm w × 28 cm d × 16 cm h (13.4"w × 11.0"d × 6.3"h)
+- Case volume: 0.015 m3 (0.53 ft3)
+- Case weight: 1.0415 kg (2.30 lbs)
+- 200 pouches bulk packaging
+- 66 cases per pallet (ocean and air)
+- 132,000 doses per 20' container 290,400 doses per 40' container
 
-  - 34 cm w × 28 cm d × 16 cm h (13.4"w × 11.0"d × 6.3"h)
-
-  - Case volume: 0.015 m3 (0.53 ft3)
-
-  - Case weight: 1.0415 kg (2.30 lbs)
-
-  - 200 pouches bulk packaging
-
-  - 66 cases per pallet (ocean and air)
-
-  - 132,000 doses per 20' container 290,400 doses per 40' container
-
-    *As* *a general rule, orders for quantities for less than half a 20' container that are not consolidated with other orders will ship by air.*
+*As* *a general rule, orders for quantities for less than half a 20' container that are not consolidated with other orders will ship by air.*
 
 ## Logistics
 
-- Store at room temperature (15-30°C, 59-86°F), away from direct sunlight.
+Store at room temperature (15-30°C, 59-86°F), away from direct sunlight.
 
 ## Planning and Warehousing 
 
-- Shelf life: 
-  - 3 years
+**Shelf life**: 3 years
 
-- Special Considerations:
-  - To safely manage health care waste resulting from the use of these supplies, use sharps/safety boxes and correctly dispose of used Uniject devices.
+**Special Considerations**: 
+- To safely manage health care waste resulting from the use of these supplies, use sharps/safety boxes and correctly dispose of used Uniject devices.
