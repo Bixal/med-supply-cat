@@ -40,7 +40,7 @@
         {{ content }}
 
         {% assign related_products = site.products | where: "category", page.category %}
-        <h2>Other products in {{ page.category }}</h2>
+        <h2 id="other-products">Other products in {{ page.category }}</h2>
         <ul>
           {% for product in related_products %}
           {% if product.title != page.title %}
