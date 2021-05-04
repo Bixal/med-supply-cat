@@ -1,25 +1,25 @@
 - name: Intrauterine Device (IUD)
   url: "/products/product-1.html"
-  image: "assets/category-images/category-iud.jpeg"
+  image: "assets/category-images/category-IUD.jpg"
   no-products: 5
   last-update: 3/23/2020
 - name: Injectable Contraceptive
   url: "/products/product-2.html"
-  image: "https://assets.nhs.uk/nhsuk-cms/images/S_0917_contraceptive-injection_C0069172.width-1534_bIgRJjn.jpg"
+  image: "assets/category-images/category-injection.jpg"
   no-products: 16
   last-update: 12/2/2020
 - name: Combined Oral Contraceptive Pill
   url: "/products/product-4.html"
-  image: "https://assets.nhs.uk/nhsuk-cms/images/A_0917_combined-pill_B11YFW.width-1534.jpg"
+  image: "assets/category-images/category-pill.jpg"
   no-products: 8
   last-update: 2/4/2021
 - name: Progestin Only Oral Contraceptive Pill
   url: "/products/product-6.html"
-  image: https://images.everydayhealth.com/images/womens-health/340a31c5-d2e3-4502-a5dc-ad317a0710ef0816-hb-728-birthcontrololderwomen-03-progestinpill.jpg?sfvrsn=d2e391a5_0
+  image: "assets/category-images/category-progestin.jpg"
   no-products: 25
   last-update: 2/4/2021
 - name: Standard Days Method
   url: "/products/product-9.html"
-  image: https://www.plannedparenthood.org/uploads/filer_public_thumbnails/filer_public/a4/71/a471d20c-d12f-48c2-8f5f-adb9452e3061/cycle_beads_fams_topic_pages_standard_days_method_beads.jpg__1200x900_q75_subsampling-2.jpg
+  image: "assets/category-images/category-standard-days.jpg"
   no-products: 17
   last-update: 1/14/2021
