@@ -9,7 +9,7 @@ tags:
 subtitle: 
 sku: 
 price:  $8.50 per piece
-feature-image:
+feature-image: /med-supply-cat/assets/product-images/product-8-feature.png
 related-keyword: 
 ---
 ## Market Insights

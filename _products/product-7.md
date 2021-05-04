@@ -9,7 +9,7 @@ tags:
 subtitle: 
 sku: 
 price:  $.30 per unit
-feature-image:
+feature-image: /med-supply-cat/assets/product-images/product-7-feature.png
 related-keyword: 
 ---
 ## Market Insights

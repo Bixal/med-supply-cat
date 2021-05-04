@@ -1,6 +1,6 @@
 ---
 layout: product
-title: 0.15 mg levonorgestrel + 0.03 mg ethinyl estradiol, 75 mg ferrous fumarate
+title: 0.15 mg levonorgestrel + 0.03 mg ethinyl estradiol, 75 mg ferrous fumarate "Blue Lady"
 category: Combined Oral Contraceptive Pill 
 brand: 
 tags: 
@@ -8,7 +8,7 @@ tags:
 subtitle: "Blue Lady"
 sku: 
 price:  $.27 per unit
-feature-image:
+feature-image: /med-supply-cat/assets/product-images/product-5-feature.png
 related-keyword: 
 ---
 ## Market Insights
