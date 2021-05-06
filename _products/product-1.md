@@ -12,6 +12,7 @@ price: $.60 per piece
 feature-image: /med-supply-cat/assets/product-images/product-1-feature.png
 feature-image-description: "T-shaped device with some parts wrapped in copper coils"
 related-keyword: 
+date: 5/5/2021
 ---
 ## Market Insights
 
