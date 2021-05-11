@@ -2,14 +2,15 @@
 layout: product
 title: 0.15 mg levonorgestrel + 0.03 mg ethinyl estradiol, 75 mg ferrous fumarate "Blue Lady"
 category: Combined Oral Contraceptive Pill 
-brand: 
+brand: Microgynon
 tags: 
     - public sector
 subtitle: "Blue Lady"
-sku: 
+sku: 10923487
 price:  $.27 per unit
 feature-image: /med-supply-cat/assets/product-images/product-5-feature.png
 related-keyword: 
+last-updated: 2 months ago
 ---
 ## Market Insights
 

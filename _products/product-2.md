@@ -2,16 +2,17 @@
 layout: product
 title: Depot (IM) Medroxyprogesterone Acetate 150 mg/mL (1 mL) vial
 category: Injectable Contraceptive
-brand: 
+brand: Depo-Provera
 tags: 
     - public sector
     - social marketing
 subtitle: 
-sku: 
+sku: 23423423465
 price: $.60 per piece
 feature-image: /med-supply-cat/assets/product-images/product-2-feature.png
 feature-image-description: "multi=colored pills in foil packaging"
 related-keyword: 
+last-updated: 4 days ago
 ---
 ## Market Insights
 

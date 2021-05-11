@@ -2,15 +2,16 @@
 layout: product
 title: Etonogestrel 68 mg implant, 1 rod implant
 category: Contraceptive Implant
-brand: 
+brand: Nexplanon
 tags: 
     - public sector
     - special order
 subtitle: 
-sku: 
+sku: 8457349809
 price:  $.30 per unit
 feature-image: /med-supply-cat/assets/product-images/product-7-feature.png
 related-keyword: 
+last-updated: 2 months ago
 ---
 ## Market Insights
 

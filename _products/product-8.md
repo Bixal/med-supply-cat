@@ -2,15 +2,16 @@
 layout: product
 title: Levonorgestrel 75mg/rod, 2 rods
 category: Contraceptive Implant
-brand: 
+brand: Jadelle
 tags: 
     - public sector
     - social marketing
 subtitle: 
-sku: 
+sku: 4342356788
 price:  $8.50 per piece
 feature-image: /med-supply-cat/assets/product-images/product-8-feature.png
 related-keyword: 
+last-updated: 1 year ago
 ---
 ## Market Insights
 
