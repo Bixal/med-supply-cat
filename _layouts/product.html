@@ -18,17 +18,15 @@
         <span class="usa-tag bg-accent-warm-light text-base-darker display-inline-block">{{ item }}</span> 
         {% endfor %}
     </p>
-
-    <p>
-      <span class="usa-button  usa-button--hover display-inline-block">Add to List</span> 
-    </p>
    
-
     <div class="grid-container padding-x-0">
         <div class="grid-row">
           <div class="tablet:grid-col tablet:padding-right-1">
             <img src="{{ page.feature-image }}" alt="{{ page.feature-image-description }}">
             <button class="usa-button usa-button--unstyled margin-y-2">View more images</button>
+            <div class="margin-y-2">
+              <button class="usa-button  usa-button--hover">Add to List</button>
+            </div>
           </div>
           <div class="tablet:grid-col tablet:padding-left-1">
             <div class="usa-alert usa-alert--info usa-alert--slim margin-bottom-2" >
@@ -40,6 +38,7 @@
           </div>
         </div>
       </div>
+
 
     <section class="maxw-tablet">
         {{ content }}
