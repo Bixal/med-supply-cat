@@ -10,11 +10,11 @@
 
     {% include breadcrumbs.html %}
 
-    <h1 class="margin-top-0">{{ page.title }}</h1>
+    <h1 class="margin-top-0 margin-bottom-2">{{ page.title }}</h1>
 
     <small class="text-base">Brand: {{ page.brand }}, SKU: {{ page.sku }}, Last updated: {{ page.last-updated }}</small>
 
-    <p>
+    <p class="margin-y-2">
         {% assign tags = page.tags %}
         {% for item in tags %}
         <span class="usa-tag bg-accent-warm-light text-base-darker display-inline-block">{{ item }}</span> 
