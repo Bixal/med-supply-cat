@@ -2,14 +2,15 @@
 layout: product
 title: 0.15 mg levonorgestrel + 0.03 mg ethinyl estradiol, 75 mg ferrous fumarate, "Pink Lady"
 category: Progestin Only Oral Contraceptive Pill
-brand: 
+brand: Microlut
 tags: 
     - public sector
 subtitle: "Pink Lady"
-sku: 
+sku: 234234234098
 price:  $.30 per unit
 feature-image: /med-supply-cat/assets/product-images/product-6-feature.png
 related-keyword: "pink and white hand-size box next to a packet of white pills"
+last-updated: 5 weeks ago
 ---
 ## Market Insights
 

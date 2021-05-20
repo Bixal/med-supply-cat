@@ -2,17 +2,18 @@
 layout: product
 title: Depot (SC) Medroxyprogesterone Acetate 104 mg/0.65 mL, Pre-Filled Uniject Device, 1 Syringe
 category: Injectable Contraceptive
-brand: 
+brand: Depo-SubQ
 tags: 
     - public sector
     - social marketing
     - special order
 subtitle: 
-sku: 
+sku: 56756756887
 price: $.85 per unit
 feature-image: /med-supply-cat/assets/product-images/product-2-feature.png
 feature-image-description: "multi=colored pills in foil packaging"
 related-keyword: 
+last-updated: 4 days ago
 ---
 ## Market Insights
 

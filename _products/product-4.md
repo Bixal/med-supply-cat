@@ -2,14 +2,15 @@
 layout: product
 title: 0.15 mg levonorgestrel + 0.03 mg ethinyl estradiol, 75 mg ferrous fumarate
 category: Combined Oral Contraceptive Pill 
-brand: 
+brand: Combination 3
 tags: 
     - social marketing
 subtitle: 
-sku: 
+sku: 6874562567
 price:  $.27 per unit
 feature-image: /med-supply-cat/assets/product-images/product-4-feature.png
 related-keyword: "red and orange hand-size box next to a packet of white and red pills"
+last-updated: 2 months ago
 ---
 ## Market Insights
 

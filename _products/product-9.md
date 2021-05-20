@@ -2,15 +2,16 @@
 layout: product
 title: Color-Coded Plastic Beads, 1 Each
 category: Standard Days Method
-brand: 
+brand: CycleBeads
 tags: 
     - public sector
     - social marketing
 subtitle: 
-sku: 
+sku: 0923407
 price:  $1.48 per unit
 feature-image: /med-supply-cat/assets/product-images/product-9-feature.png
 related-keyword: "bracelet of white and brown beads"
+last-updated: 3 days ago
 ---
 ## Market Insights
 
