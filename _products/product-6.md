@@ -9,7 +9,7 @@ subtitle: "Pink Lady"
 sku: 234234234098
 price:  $.30 per unit
 feature-image: /med-supply-cat/assets/product-images/product-6-feature.png
-related-keyword: "pink and white hand-size box next to a packet of white pills"
+feature-image-description: "pink and white hand-size box next to a packet of white pills"
 last-updated: 5 weeks ago
 ---
 ## Market Insights

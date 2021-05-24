@@ -10,7 +10,7 @@ subtitle:
 sku: 8457349809
 price:  $.30 per unit
 feature-image: /med-supply-cat/assets/product-images/product-7-feature.png
-related-keyword: 
+feature-image-description: "white prescription medicine box with abstract green leaf illustration"
 last-updated: 2 months ago
 ---
 ## Market Insights

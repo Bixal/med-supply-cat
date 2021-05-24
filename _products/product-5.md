@@ -9,7 +9,7 @@ subtitle: "Blue Lady"
 sku: 10923487
 price:  $.27 per unit
 feature-image: /med-supply-cat/assets/product-images/product-5-feature.png
-related-keyword: 
+feature-image-description: "blue and white hand-size box next to a packet of white and red pills"
 last-updated: 2 months ago
 ---
 ## Market Insights

@@ -11,8 +11,7 @@ subtitle:
 sku: 56756756887
 price: $.85 per unit
 feature-image: /med-supply-cat/assets/product-images/product-2-feature.png
-feature-image-description: "multi=colored pills in foil packaging"
-related-keyword: 
+feature-image-description: "injection device with prescription medicine box"
 last-updated: 4 days ago
 ---
 ## Market Insights
