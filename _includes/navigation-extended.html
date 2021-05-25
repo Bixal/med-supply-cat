@@ -1,0 +1,58 @@
+<div class="usa-overlay"></div>
+<header class="usa-header usa-header--extended">
+  <div class="usa-navbar">
+    <div class="usa-logo" id="extended-logo">
+      <em class="usa-logo__text"><a href="{{ site.baseurl }}/" title="Home" aria-label="Home">{{ site.short-title }}</a></em>
+    </div>
+    <button class="usa-menu-btn">Menu</button>
+  </div>
+  <nav aria-label="Primary navigation" class="usa-nav">
+    <div class="usa-nav__inner"><button class="usa-nav__close"><img src="{{ site.baseurl }}/assets/img/usa-icons/close.svg" role="img" alt="close"></button>
+        <ul class="usa-nav__primary usa-accordion">
+            <li class="usa-nav__primary-item">
+              <a class="usa-nav__link {% if page.layout == "index" %} usa-current{% endif %}" href="{{ site.baseurl }}/"><span>Home</span></a>
+            </li>
+            <li class="usa-nav__primary-item">
+              <button class="usa-accordion__button usa-nav__link {% if page.layout == "product" %} usa-current{% endif %}" aria-expanded="false" aria-controls="basic-nav-section-one"><span>Categories</span></button>
+              <ul id="basic-nav-section-one" class="usa-nav__submenu">
+                {% for item in site.data.categories %}
+                <li class="usa-nav__submenu-item">
+                  <a href="{{ site.baseurl }}{{ item.url }}" class="">{{ item.name }}</a>
+                </li>
+                {% endfor %}
+              </ul>
+            </li>
+            <li class="usa-nav__primary-item">
+              <a class="usa-nav__link" href="javascript:void(0)"><span>About</span></a>
+            </li>
+          </ul>
+          <div class="usa-nav__secondary">
+            <ul class="usa-nav__secondary-links">
+              <li class="usa-nav__secondary-item">
+                <!-- <svg class="usa-icon text-base" aria-hidden="true" role="img">
+                    <use xlink:href="#language"></use>
+                </svg> -->
+                <a href="javascript:void(0);">Translate</a>
+              </li>
+              <li class="usa-nav__secondary-item">
+                <!-- <svg class="usa-icon text-base" aria-hidden="true" role="img">
+                    <use xlink:href="#mail_outline"></use>
+                </svg> -->
+                <a href="javascript:void(0);">Subscribe</a>
+              </li>
+              <li class="usa-nav__secondary-item">
+                <!-- <svg class="usa-icon text-base" aria-hidden="true" role="img">
+                  <use xlink:href="#phone"></use>
+                </svg> -->
+                <a href="javascript:void(0);">Contact</a>
+              </li>
+            </ul>
+            <form class="usa-search usa-search--small" role="search">
+              <label class="usa-sr-only" for="extended-search-field-small">Search small</label>
+              <input class="usa-input" id="extended-search-field-small" type="search" name="search">
+              <button class="usa-button" type="submit"><span class="usa-sr-only">Search</span></button>
+            </form>
+          </div>
+    </div>
+  </nav>
+</header>
