@@ -13,6 +13,7 @@ price: $.85 per unit
 feature-image: /med-supply-cat/assets/product-images/product-2-feature.png
 feature-image-description: "injection device with prescription medicine box"
 last-updated: 4 days ago
+permalink: /injectable-contraceptive/depot-subq.html
 ---
 ## Market Insights
 

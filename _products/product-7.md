@@ -12,6 +12,7 @@ price:  $.30 per unit
 feature-image: /med-supply-cat/assets/product-images/product-7-feature.png
 feature-image-description: "white prescription medicine box with abstract green leaf illustration"
 last-updated: 2 months ago
+permalink: /contraceptive-implant/nexplanon.html
 ---
 ## Market Insights
 

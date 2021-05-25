@@ -13,7 +13,7 @@
               <a class="usa-nav__link {% if page.layout == "index" %} usa-current{% endif %}" href="{{ site.baseurl }}/"><span>Home</span></a>
             </li>
             <li class="usa-nav__primary-item">
-              <button class="usa-accordion__button usa-nav__link {% if page.layout == "product" or "category" %} usa-current{% endif %}" aria-expanded="false" aria-controls="basic-nav-section-one"><span>Categories</span></button>
+              <button class="usa-accordion__button usa-nav__link {% if page.layout == "product" or page.layout == "category" %} usa-current{% endif %}" aria-expanded="false" aria-controls="basic-nav-section-one"><span>Categories</span></button>
               <ul id="basic-nav-section-one" class="usa-nav__submenu">
                 {% for item in site.data.categories %}
                 <li class="usa-nav__submenu-item">
