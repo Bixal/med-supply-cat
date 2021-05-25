@@ -12,6 +12,7 @@ price: $.60 per piece
 feature-image: /med-supply-cat/assets/product-images/product-1-feature.png
 feature-image-description: "T-shaped device with some parts wrapped in copper coils"
 last-updated: 5 weeks ago
+permalink: /intrauterine-device-iud/copper-tcu380a.html
 ---
 ## Market Insights
 

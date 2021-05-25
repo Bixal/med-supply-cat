@@ -5,6 +5,15 @@
 <body>
   {% include navigation-extended.html %}
   
+  {% for staff_member in site.products %}
+  <h2>
+    <a href="{{ site.baseurl }}{{ staff_member.url }}">
+      {{ staff_member.title }} - {{ staff_member.brand }}
+    </a>
+  </h2>
+  <p>{{ staff_member.content | markdownify }}</p>
+{% endfor %}
+
   <main>
     <div class="grid-container padding-y-2">
       <h1 class="display-1">{{ site.title }}</h1>
