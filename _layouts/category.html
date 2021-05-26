@@ -33,7 +33,7 @@
                 </h3>
                 <p class="usa-collection__description text-base">Brand: {{ item.brand }} | SKU: {{ item.sku }} | Last updated: {{ item.last-updated }}</p>
                 <div class="grid-row">
-                    <div class="tablet:grid-col-10">
+                    <div class="tablet:grid-col-8">
                         <ul class="usa-collection__meta margin-bottom-2" aria-label="Topics">
                         {% assign tags = item.tags %}
                             {% for item in tags %}
@@ -44,7 +44,7 @@
                         </ul>
                     </div>
                     <div class="tablet:grid-col">
-                        <button class="usa-button usa-button--outline">Add to list</button>
+                        <button class="usa-button usa-button--outline float-right">Add to list</button>
                     </div>
                 </div>
             </div>
