@@ -20,6 +20,9 @@ baseurl: /med-supply-cat
 collections:
   products:
     output: true
+    permalink: /:categories/:title.html
+  categories:
+    output: true
 
 # Set a short name for the site to use in the header section.
 short-title: USHELP MSC

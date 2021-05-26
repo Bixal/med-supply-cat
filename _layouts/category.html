@@ -1,0 +1,60 @@
+<!doctype html>
+
+{% include head.html %}
+
+<body>
+  {% include navigation-extended.html %}
+  
+  <main>
+    <div class="grid-container">
+        <nav class="usa-breadcrumb margin-top-05" aria-label="Breadcrumbs">
+            <ol class="usa-breadcrumb__list">
+              <li class="usa-breadcrumb__list-item">
+                <a href="{{ site.baseurl }}/" class="usa-breadcrumb__link">
+                  <span>Home</span>
+                </a>
+              </li>
+              <li class="usa-breadcrumb__list-item">
+                  <span>{{ page.title }}</span>
+              </li>
+            </ol>
+        </nav>
+
+    <h1 class="margin-top-0 margin-bottom-2">{{ page.title }}</h1>
+    
+    <ul class="usa-collection">
+        {% assign related_products = site.products | where: "category", page.title %}
+        {% for item in related_products %}
+        <li class="usa-collection__item maxw-full border-base-lighter">
+            <img class="usa-collection__img" src="{{ item.feature-image }}" alt="{{ item.feature-image-description }}">
+            <div class="usa-collection__body">
+                <h3 class="usa-collection__heading margin-bottom-105 maxw-mobile-lg">
+                <a class="usa-link" href="{{ site.baseurl }}{{ item.permalink }}">{{ item.title }}</a>
+                </h3>
+                <p class="usa-collection__description text-base">Brand: {{ item.brand }} | SKU: {{ item.sku }} | Last updated: {{ item.last-updated }}</p>
+                <div class="grid-row">
+                    <div class="tablet:grid-col-6">
+                        <ul class="usa-collection__meta margin-bottom-2" aria-label="Topics">
+                        {% assign tags = item.tags %}
+                            {% for item in tags %}
+                            <li class="usa-tag bg-base-lighter text-base-darker display-inline-block margin-top-1">
+                                {{ item }}
+                            </li> 
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    <div class="tablet:grid-col-6">
+                        <button class="usa-button usa-button--outline margin-right-0 float-right">Add to list</button>
+                    </div>
+                </div>
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+
+
+
+  </div>
+  </main>
+  {% include footer.html %}
+  {% include foot.html %}

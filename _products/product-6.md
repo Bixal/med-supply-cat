@@ -11,6 +11,7 @@ price:  $.30 per unit
 feature-image: /med-supply-cat/assets/product-images/product-6-feature.png
 feature-image-description: "pink and white hand-size box next to a packet of white pills"
 last-updated: 5 weeks ago
+permalink: /progestin-only-oral-contraceptive-pill/microlut.html
 ---
 ## Market Insights
 

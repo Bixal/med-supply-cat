@@ -12,6 +12,7 @@ price: $.60 per piece
 feature-image: /med-supply-cat/assets/product-images/product-2-feature.png
 feature-image-description: "syringe with prescription medicine box"
 last-updated: 4 days ago
+permalink: /injectable-contraceptive/depo-provera.html
 ---
 ## Market Insights
 

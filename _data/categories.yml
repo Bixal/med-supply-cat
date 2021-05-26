@@ -1,25 +1,30 @@
 - name: Intrauterine Device (IUD)
-  url: "/products/product-1.html"
+  url: "/intrauterine-device-iud.html"
   image: "assets/category-images/category-IUD.jpg"
   no-products: 5
   last-update: 3/23/2020
 - name: Injectable Contraceptive
-  url: "/products/product-2.html"
+  url: "/injectable-contraceptive.html"
   image: "assets/category-images/category-injection.jpg"
   no-products: 16
   last-update: 12/2/2020
 - name: Combined Oral Contraceptive Pill
-  url: "/products/product-4.html"
+  url: "/combined-oral-contraceptive-pill.html"
   image: "assets/category-images/category-pill.jpg"
   no-products: 8
   last-update: 2/4/2021
 - name: Progestin Only Oral Contraceptive Pill
-  url: "/products/product-6.html"
+  url: "/progestin-only-oral-contraceptive-pill.html"
   image: "assets/category-images/category-progestin.jpg"
   no-products: 25
   last-update: 2/4/2021
 - name: Standard Days Method
-  url: "/products/product-9.html"
+  url: "/standard-days-method.html"
   image: "assets/category-images/category-standard-days.jpg"
   no-products: 17
   last-update: 1/14/2021
+- name: Contraceptive Implant
+  url: "/contraceptive-implant.html"
+  image: "assets/category-images/category-contraceptive-implant.jpg"
+  no-products: 10
+  last-update: 2/14/2021

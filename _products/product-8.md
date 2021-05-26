@@ -12,6 +12,7 @@ price:  $8.50 per piece
 feature-image: /med-supply-cat/assets/product-images/product-8-feature.png
 feature-image-description: "injection device with prescription green and white medicine box"
 last-updated: 1 year ago
+permalink: /contraceptive-implant/jadelle.html
 ---
 ## Market Insights
 

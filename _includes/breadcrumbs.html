@@ -6,7 +6,9 @@
         </a>
       </li>
       <li class="usa-breadcrumb__list-item">
+        <a href="{{ site.baseurl }}/{{ page.category | slugify}}.html" class="usa-breadcrumb__link">
           <span>{{ page.category }}</span>
+        </a>
       </li>
       <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
         <span>{{ page.title }}</span>
