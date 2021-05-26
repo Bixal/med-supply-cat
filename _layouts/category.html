@@ -33,18 +33,18 @@
                 </h3>
                 <p class="usa-collection__description text-base">Brand: {{ item.brand }} | SKU: {{ item.sku }} | Last updated: {{ item.last-updated }}</p>
                 <div class="grid-row">
-                    <div class="tablet:grid-col-8">
+                    <div class="tablet:grid-col-6">
                         <ul class="usa-collection__meta margin-bottom-2" aria-label="Topics">
                         {% assign tags = item.tags %}
                             {% for item in tags %}
-                            <li class="usa-tag bg-base-lighter text-base-darker display-inline-block">
+                            <li class="usa-tag bg-base-lighter text-base-darker display-inline-block margin-top-1">
                                 {{ item }}
                             </li> 
                             {% endfor %}
                         </ul>
                     </div>
-                    <div class="tablet:grid-col">
-                        <button class="usa-button usa-button--outline float-right">Add to list</button>
+                    <div class="tablet:grid-col-6">
+                        <button class="usa-button usa-button--outline margin-right-0 float-right">Add to list</button>
                     </div>
                 </div>
             </div>
