@@ -1,3 +1,6 @@
+Archived - This project repo is no longer being maintained.
+
+
 # USWDS Latest Template
 
 This template is set up with USWDS core CSS and JS files from [CDNJS](https://cdnjs.com/libraries/uswds).
